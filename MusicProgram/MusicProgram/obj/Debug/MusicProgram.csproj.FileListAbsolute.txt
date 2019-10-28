@@ -1,0 +1,15 @@
+C:\Users\Sophie\Documents\cs3601\software\MusicProgram\MusicProgram\bin\Debug\MusicProgram.exe.config
+C:\Users\Sophie\Documents\cs3601\software\MusicProgram\MusicProgram\bin\Debug\MusicProgram.exe
+C:\Users\Sophie\Documents\cs3601\software\MusicProgram\MusicProgram\bin\Debug\MusicProgram.pdb
+C:\Users\Sophie\Documents\cs3601\software\MusicProgram\MusicProgram\obj\Debug\MusicProgram.csprojAssemblyReference.cache
+C:\Users\Sophie\Documents\cs3601\software\MusicProgram\MusicProgram\obj\Debug\MainWindow.g.cs
+C:\Users\Sophie\Documents\cs3601\software\MusicProgram\MusicProgram\obj\Debug\App.g.cs
+C:\Users\Sophie\Documents\cs3601\software\MusicProgram\MusicProgram\obj\Debug\MusicProgram_MarkupCompile.cache
+C:\Users\Sophie\Documents\cs3601\software\MusicProgram\MusicProgram\obj\Debug\MusicProgram_MarkupCompile.lref
+C:\Users\Sophie\Documents\cs3601\software\MusicProgram\MusicProgram\obj\Debug\MainWindow.baml
+C:\Users\Sophie\Documents\cs3601\software\MusicProgram\MusicProgram\obj\Debug\MusicProgram.g.resources
+C:\Users\Sophie\Documents\cs3601\software\MusicProgram\MusicProgram\obj\Debug\MusicProgram.Properties.Resources.resources
+C:\Users\Sophie\Documents\cs3601\software\MusicProgram\MusicProgram\obj\Debug\MusicProgram.csproj.GenerateResource.cache
+C:\Users\Sophie\Documents\cs3601\software\MusicProgram\MusicProgram\obj\Debug\MusicProgram.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\Documents\cs3601\software\MusicProgram\MusicProgram\obj\Debug\MusicProgram.exe
+C:\Users\Sophie\Documents\cs3601\software\MusicProgram\MusicProgram\obj\Debug\MusicProgram.pdb
