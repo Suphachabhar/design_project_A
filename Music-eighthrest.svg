@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg2" inkscape:version="0.47 r22583" sodipodi:docname="Music-halfnote.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 600 300"
+	 style="enable-background:new 0 0 600 300;" xml:space="preserve">
+<style type="text/css">
+	.st0{stroke:#000000;}
+	.st1{fill:none;stroke:#000000;stroke-width:3;}
+</style>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" id="namedview13" inkscape:current-layer="g3193" inkscape:cx="67.876837" inkscape:cy="71.284906" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="978" inkscape:window-maximized="1" inkscape:window-width="1680" inkscape:window-x="1276" inkscape:window-y="-3" inkscape:zoom="4" objecttolerance="10" pagecolor="#ffffff" showgrid="false">
+	</sodipodi:namedview>
+<defs>
+	
+	
+		<inkscape:perspective  id="perspective15" inkscape:persp3d-origin="99.73494 : 34.348567 : 1" inkscape:vp_x="0 : 51.52285 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="199.46988 : 51.52285 : 1" sodipodi:type="inkscape:persp3d">
+		</inkscape:perspective>
+	
+		<inkscape:perspective  id="perspective2829" inkscape:persp3d-origin="0.5 : 0.33333333 : 1" inkscape:vp_x="0 : 0.5 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="1 : 0.5 : 1" sodipodi:type="inkscape:persp3d">
+		</inkscape:perspective>
+	
+		<inkscape:perspective  id="perspective2843" inkscape:persp3d-origin="0.5 : 0.33333333 : 1" inkscape:vp_x="0 : 0.5 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="1 : 0.5 : 1" sodipodi:type="inkscape:persp3d">
+		</inkscape:perspective>
+	
+		<inkscape:perspective  id="perspective3177" inkscape:persp3d-origin="0.5 : 0.33333333 : 1" inkscape:vp_x="0 : 0.5 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="1 : 0.5 : 1" sodipodi:type="inkscape:persp3d">
+		</inkscape:perspective>
+</defs>
+<g id="g3862" transform="translate(-0.24707682,-46.942827)">
+	<g id="g3193">
+		
+			<path id="path3185" sodipodi:cx="93.412224" sodipodi:cy="37.343243" sodipodi:rx="6.7109594" sodipodi:ry="7.0356832" sodipodi:type="arc" class="st0" d="
+			M303.4,153.3c0,11.6-9.4,21-21,21c-11.6,0-21-9.4-21-20.9c0,0,0,0,0,0c0-11.6,9.4-21,21-21S303.4,141.7,303.4,153.3
+			C303.4,153.3,303.4,153.3,303.4,153.3z"/>
+		<path id="path3189" sodipodi:nodetypes="cc" class="st1" d="M299.2,262.6c0-2.9,35.2-124.1,35.2-124.1"/>
+		<path id="path3191" sodipodi:nodetypes="ccc" class="st1" d="M281,171.2c16.5,1.1,47.3-3,52.8-31.5c-7.1,11.1-7.3,32.8-48.5,23.3"
+			/>
+	</g>
+</g>
+</svg>
